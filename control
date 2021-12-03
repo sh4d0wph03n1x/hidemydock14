@@ -1,0 +1,9 @@
+Package: com.ph03n1x.hidemydock14
+Name: HideMyDock14
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A Theos test compile that also hides the dock
+Maintainer: Ph03n1x
+Author: Ph03n1x
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
